@@ -1,0 +1,1 @@
+{"version":3,"file":"enhanced-object-properties.js","sourceRoot":"","sources":["../enhanced-object-properties.ts"],"names":[],"mappings":";AAAA,IAAI,KAAK,GAAG;IACR,EAAE,EAAE,IAAI;IACR,KAAK,EAAE,WAAW;IAClB,KAAK,EAAE,GAAG;IACV,UAAU;QACN,OAAO,IAAI,CAAC,EAAE,GAAC,GAAG,GAAC,IAAI,CAAC,KAAK,CAAC;IAClC,CAAC;IACD,QAAQ;QACJ,OAAO,IAAI,CAAC,KAAK,CAAC;IACtB,CAAC;CACJ,CAAC;AAEF;yBACyB"}
