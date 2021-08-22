@@ -1,0 +1,19 @@
+body{
+    background-color: #d0ebf5;
+}
+.lines{
+    background-color: #d0ebf5;
+}
+.line1{
+    margin-bottom: 0px;
+    background-color: #6384cd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line2,.line4{
+    background-color: #a2cceb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line2{
+    padding-top: 1px;
+}
+
